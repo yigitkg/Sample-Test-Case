@@ -1,3 +1,16 @@
+# Click Points React Application
+
+This application is built with React.js. It renders a screen with points that can be clicked on. The application also has an undo/redo functionality for the clicked points.
+
+## Description
+
+In this application, we have a main component named `App`. This component maintains two main pieces of state: `points` and `checkPoints`. `points` is used to store the locations of all points that have been clicked on the screen, and `checkPoints` is used to store the history of points when the undo operation is performed.
+
+When the screen is clicked, a new point is added to the `points` state and `checkPoints` is cleared. Each point is an object containing the `x` and `y` coordinates of the mouse click event.
+
+The application also includes 'Undo' and 'Redo' buttons that manipulate the `points` and `checkPoints` arrays to achieve their functionality.
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
