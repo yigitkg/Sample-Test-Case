@@ -11,6 +11,7 @@ When the screen is clicked, a new point is added to the `points` state and `chec
 The application also includes 'Undo' and 'Redo' buttons that manipulate the `points` and `checkPoints` arrays to achieve their functionality.
 
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+![Clicks](https://github.com/yigitkg/Sample-Test-Case/assets/25155414/aeacff4d-ce34-42ea-8761-008427920127)
 
 
 ## Available Scripts
