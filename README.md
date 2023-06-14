@@ -9,7 +9,8 @@ In this application, we have a main component named `App`. This component mainta
 When the screen is clicked, a new point is added to the `points` state and `checkPoints` is cleared. Each point is an object containing the `x` and `y` coordinates of the mouse click event.
 
 The application also includes 'Undo' and 'Redo' buttons that manipulate the `points` and `checkPoints` arrays to achieve their functionality.
-"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 # Getting Started with Create React App
 
