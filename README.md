@@ -10,8 +10,6 @@ When the screen is clicked, a new point is added to the `points` state and `chec
 
 The application also includes 'Undo' and 'Redo' buttons that manipulate the `points` and `checkPoints` arrays to achieve their functionality.
 
-""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-
 ## Available Scripts
 
 In the project directory, you can run:
